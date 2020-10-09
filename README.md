@@ -2,7 +2,7 @@
 #
 ## Synopsis
 
-DUCKIESAYS RESTful service API.
+duckiesays.com, but for 924 S and 944 Porsche owners.
 
 ## Code Example
 
